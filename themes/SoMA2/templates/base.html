@@ -40,7 +40,7 @@
     <!-- </p> -->
     <p><a id="sitesubtitle" href="{{ SITEURL }}/">{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</a></p>
     {% if SITETAGLINE %}<p id="sitetagline">{{ SITETAGLINE }}</p>{% endif %}
-    <p><a id="aboutlink" href="{{ SITEURL }}/about.html">about</a></p>
+    <p><a id="aboutlink" href="{{ SITEURL }}/about.html">About</a></p>
 
     <!-- <ul> -->
     <!--   <li><a href="{{ SITEURL }}/pages/about.html">about</a></li> -->
@@ -55,10 +55,10 @@
     <!-- </ul> -->
 
     <!-- This belongs in the about page -->
-      <!-- {% for name, link in SOCIAL %} -->
-      <!-- <a href="{{ link }}">{{ name }}</a> -->
-      <!-- <br/> -->
-      <!-- {% endfor %} -->
+      {% for name, link in SOCIAL %} 
+      <a href="{{ link }}">{{ name }}</a> 
+      <br/> 
+      {% endfor %} 
 
 <!-- {% include 'categories.html' %} -->
   </div>
