@@ -20,7 +20,7 @@ Hardware/Software
     Autore: Stefano Borini
 
 `Netcat6 <https://github.com/mtortonesi/netcat6>`__
-    Netcat per ipv6
+    Netcat per ipv6.
     Autore: Mauro Tortonesi
 
 Documentazione
@@ -34,7 +34,7 @@ Documentazione
 Siti Addizionali
 ~~~~~~~~~~~~~~~~
 
-`HamRadio group at FerraraLUG <hamradio.ferrara.linux.it>`__
+`HamRadio group at FerraraLUG <http://hamradio.ferrara.linux.it>`__
     Pierluigi Guerzoni, Enrico Ardizzoni
 
 
