@@ -19,16 +19,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -55,7 +45,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Social widget
-SOCIAL = ()
+SOCIAL = (
+    ('github', 'http://github.com/FerraraLUG'),
+)
 
 DEFAULT_PAGINATION = 10
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -64,5 +56,10 @@ DISPLAY_TAGS_ON_SIDEBAR = False
 RELATIVE_URLS = False
 
 # Blogroll
-LINKS = ()
+LINKS = (
+    ('Stefano Borini', 'http://forthescience.org/'),
+)
 
+GITHUB_URL = 'http://github.com/FerraraLUG/'
+
+THEME='pelican-themes/SoMA2'
