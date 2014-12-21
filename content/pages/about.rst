@@ -21,11 +21,11 @@ Stefano Borini
 --------------
 
 Socio fondatore dell'associazione. Chimico teorico e Ph.D. in chimica
-computazionale, attualmente programmatore scientifico. 
-`Blog <http://www.tortonesi.com/>`_, `github <https://github.com/mtortonesi>`_
+computazionale. Correntemente programmatore scientifico.
+`Blog <http://forthescience.org/>`_, `github <https://github.com/stefanoborini>`_.
 
 Mauro Tortonesi
 ---------------
 
-Ricercatore all' Universita' di Ferrara, Italy. Open Source evangelist, sviluppatore Ruby, utente Vim ed appassionato fotografo su film.
-`Blog <http://www.tortonesi.com/>`_, `github <https://github.com/mtortonesi>`_
+Ricercatore all' Universita' di Ferrara. Open Source evangelist, sviluppatore Ruby, utente Vim ed appassionato fotografo su film.
+`Blog <http://www.tortonesi.com/>`_, `github <https://github.com/mtortonesi>`_.
