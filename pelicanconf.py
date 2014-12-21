@@ -62,4 +62,4 @@ LINKS = (
 
 GITHUB_URL = 'http://github.com/FerraraLUG/'
 
-THEME='pelican-themes/SoMA2'
+THEME='themes/SoMA2'

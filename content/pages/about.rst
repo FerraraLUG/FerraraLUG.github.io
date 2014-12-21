@@ -1,3 +1,6 @@
+:save_as: about.html
+:slug: about
+
 ========================
 Ferrara Linux User Group
 ========================
