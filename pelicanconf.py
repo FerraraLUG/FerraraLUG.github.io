@@ -46,7 +46,8 @@ TRANSLATION_FEED_ATOM = None
 
 # Social widget
 SOCIAL = (
-    ('github', 'http://github.com/FerraraLUG'),
+    ('FerraraLUG', 'http://ferrara.linux.it/'),
+    ('Github', 'http://github.com/FerraraLUG'),
 )
 
 DEFAULT_PAGINATION = 10
