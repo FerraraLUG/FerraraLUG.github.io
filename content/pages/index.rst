@@ -23,6 +23,17 @@ Hardware/Software
     Netcat per ipv6.
     Autore: Mauro Tortonesi
 
+`Ruby CZMQ <https://github.com/mtortonesi/ruby-czmq>`__
+    ruby-czmq realizes a convenient and relatively elegant API on top of the FFI-based ruby-czmq-ffi gem, 
+    which provides low-level bindings to CZMQ and works on all the main Ruby VMs: YARV/MRI, JRuby, and Rubinius.
+    Autore: Mauro Tortonesi
+
+`Ruby CZMQ FFI <https://github.com/mtortonesi/ruby-czmq-ffi>`__
+    ruby-czmq-ffi provides low-level Ruby bindings for the CZMQ library. 
+    ruby-czmq-ffi leverages the FFI mechanism, and thus should work on all the main Ruby VMs: YARV/MRI, JRuby, and Rubinius.
+    Autore: Mauro Tortonesi
+
+
 Documentazione
 ~~~~~~~~~~~~~~
 
